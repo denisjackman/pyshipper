@@ -1,0 +1,6 @@
+NAME=${jackmanimation}
+VERSION=${1.0}
+AUTHOR="${Denis Jackman}"
+AUTHOR_EMAIL="${denis_jackman@hotmail.com}"
+DESCRIPTION="${custom utility}"
+URL="${https://github.com/Jackmanimation/jackmanimation}"
